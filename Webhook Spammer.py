@@ -61,8 +61,6 @@ def spam_webhook(url, message, delay, amount, log_box, stop_flag):
         log_box.insert("end", f"[✗] Error: {str(e)}\n")
         log_box.see("end")
 
-# --- GUI ---
-
 def start_gui():
     ctk.set_appearance_mode("dark")
     ctk.set_default_color_theme("blue")
@@ -158,3 +156,4 @@ def start_gui():
 
 if __name__ == "__main__":
     start_gui()
+
