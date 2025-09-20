@@ -13,3 +13,7 @@ This is a Discord Webhook spammer that has been made in python using customtkint
 
 ## Disclaimer
 **Use responsibly. Spamming webhooks without permission is unethical and may violate terms of service. Anything you do with this tool is not my Fault. This is all your risk. If you get banned (Not Likely) But if you do it is not my fault!**
+
+## Also If you need help Please Message me on Discord. User: dxrkalfie
+
+## Love you!
